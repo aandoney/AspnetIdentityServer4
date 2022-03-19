@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Movies.API", "Movies.API\Movies.API.csproj", "{B384A4BE-D201-4DFB-9496-40F8B6D82246}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityServer", "IdentityServer\IdentityServer.csproj", "{AE44A558-BBD3-4780-BB32-B2EDC4B5E821}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B384A4BE-D201-4DFB-9496-40F8B6D82246}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B384A4BE-D201-4DFB-9496-40F8B6D82246}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B384A4BE-D201-4DFB-9496-40F8B6D82246}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B384A4BE-D201-4DFB-9496-40F8B6D82246}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE44A558-BBD3-4780-BB32-B2EDC4B5E821}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE44A558-BBD3-4780-BB32-B2EDC4B5E821}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE44A558-BBD3-4780-BB32-B2EDC4B5E821}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE44A558-BBD3-4780-BB32-B2EDC4B5E821}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E1187F2-2195-45B5-AD55-B6F427363394}
+	EndGlobalSection
+EndGlobal
